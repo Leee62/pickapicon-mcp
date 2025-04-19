@@ -13,6 +13,8 @@
 
 通过结合 MCP 与 LLM，您的图标获取工作流将变得更简洁高效，开启开发新体验 😎.
 
+**👉👉 图标库站点 [Iconify](https://icon-sets.iconify.design/) 👈👈**
+
 ## Tools
 
 - 获取所有图标库名称（get_icon_repos）

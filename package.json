@@ -1,6 +1,6 @@
 {
   "name": "pickapicon-mcp",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "a mcp server help developer to get svg simply and quickly",
   "main": "build/index.js",
   "scripts": {
