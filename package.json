@@ -1,0 +1,41 @@
+{
+  "name": "pickapicon-mcp",
+  "version": "1.0.0",
+  "description": "a mcp server help developer to get svg simply and quickly",
+  "main": "build/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc && chmod 755 build/index.js",
+    "debug": "npm run build && npx -y @modelcontextprotocol/inspector -e PREFIX=ant-design node ./build/index.js"
+  },
+  "files": [
+    "build"
+  ],
+  "keywords": [
+    "svg",
+    "mcp",
+    "iconify"
+  ],
+  "bin": {
+    "pickapicon-mcp": "./build/index.js"
+  },
+  "author": "leee62",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.9.0",
+    "zod": "^3.24.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.1",
+    "typescript": "^5.8.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leee62/pickapicon-mcp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Leee62/pickapicon-mcp/issues"
+  },
+  "homepage": "https://github.com/Leee62/pickapicon-mcp#readme"
+}
