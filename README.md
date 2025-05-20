@@ -2,6 +2,7 @@
 
 ![logo](./media/logo.png)
 
+[![smithery badge](https://smithery.ai/badge/@Leee62/pickapicon-mcp)](https://smithery.ai/server/@Leee62/pickapicon-mcp)
 [![中文文档](https://img.shields.io/badge/中文文档-查看-orangered)](README_cn.md)
 [![English](https://img.shields.io/badge/English-Read-greenyellow)](README.md)
 
@@ -35,6 +36,14 @@ It can make your workflow to get svg simplify, Dancing with MCP & LLMs 😎.
     - prefix?: prefix <DEFAULT env.PREFIX>
 
 ## QuickStart
+
+### Installing via Smithery
+
+To install Pickapicon MCP for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@Leee62/pickapicon-mcp):
+
+```bash
+npx -y @smithery/cli install @Leee62/pickapicon-mcp --client claude
+```
 
 this is MCP Server Config
 
