@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/leee62-pickapicon-mcp-badge.png)](https://mseep.ai/app/leee62-pickapicon-mcp)
+
 # pickapicon-mcp
 
 ![logo](./media/logo.png)
