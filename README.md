@@ -6,6 +6,10 @@
 [![中文文档](https://img.shields.io/badge/中文文档-查看-orangered)](README_cn.md)
 [![English](https://img.shields.io/badge/English-Read-greenyellow)](README.md)
 
+<a href="https://glama.ai/mcp/servers/@Leee62/pickapicon-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@Leee62/pickapicon-mcp/badge" alt="PickAPIcon MCP server" />
+</a>
+
 ## Description
 
 This is a mcp for FE/UI/Designer to get SVG By Iconify API.
