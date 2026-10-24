@@ -2,7 +2,7 @@
 
 ![logo](./media/logo.png)
 
-[![smithery badge](https://smithery.ai/badge/@Leee62/pickapicon-mcp)](https://smithery.ai/server/@Leee62/pickapicon-mcp)
+[![LightNow capabilities](https://lightnow.ai/badge/io.github.Leee62/pickapicon-mcp)](https://lightnow.ai/servers/io.github.Leee62/pickapicon-mcp)
 [![中文文档](https://img.shields.io/badge/中文文档-查看-orangered)](README_cn.md)
 [![English](https://img.shields.io/badge/English-Read-greenyellow)](README.md)
 
